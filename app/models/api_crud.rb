@@ -1,0 +1,2 @@
+class ApiCrud < ApplicationRecord
+end
